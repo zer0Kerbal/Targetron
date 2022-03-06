@@ -1,0 +1,17 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/*",
+        "docs/LegalMumboJumbo/*",
+        "GameData/Targetron/*",
+        "GameData/Targetron/Textures/*",
+        "source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agents/**",
+        "**/@Thumbs/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
